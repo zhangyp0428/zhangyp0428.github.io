@@ -1,2 +1,3 @@
-# zhangyp0428.github.io
+# Zhangyp's Blog
+
 Personal blog hosted on github.
